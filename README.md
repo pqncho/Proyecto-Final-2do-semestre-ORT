@@ -126,7 +126,7 @@ The project emphasizes:
 ## 👨‍💻 Authors
 
 * Juan Francisco Lino
-* [Teammate Name]
+  
 
 ---
 
