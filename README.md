@@ -119,7 +119,9 @@ The project emphasizes:
 
 
 
-This project was developed for educational purposes as part of an academic assignment.
+## 📌 Disclaimer
+
+This project was originally developed as part of an academic assignment at ORT University Uruguay and is published here for educational and portfolio purposes.
 
 ---
 
