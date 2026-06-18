@@ -93,19 +93,6 @@ This project applies several software engineering principles:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of:
-
-* Welcome Screen
-* Main Menu
-* Employee Management
-* Department Administration
-* Budget Reports
-* AI Recommendation Report
-* Movement History Dashboard
-
----
 
 ## 🎓 Academic Context
 
@@ -130,7 +117,7 @@ The project emphasizes:
 
 ---
 
-## 📌 Disclaimer
+
 
 This project was developed for educational purposes as part of an academic assignment.
 
